@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=7D:F4:70:A9:17:97:A0:11:FD:D0:D8:73:9E:DF:00:E6:A4:33:B1:BE%3Bcom.sigma.easyparkmap.activity
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.sigma.easyparkmap.activity
+
+    SHA-1 certificate fingerprint:
+    7D:F4:70:A9:17:97:A0:11:FD:D0:D8:73:9E:DF:00:E6:A4:33:B1:BE
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+</resources>
